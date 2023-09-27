@@ -1,0 +1,13 @@
+sap_lab_1 (git and github)
+for codes site by sir
+https://writeurl.com/8hcUPBtVfnl1OQYR
+
+commands for git:
+git config --global user.name "Your Name" 							//dhruvil0210
+git config --global user.email "youremail@yourdomain.com"					//chauhandhruvil480@gmail.com
+
+uploading files to github repository
+command to check path :- pwd
+git init 											//make hidden folder in directory
+git status											//check status 
+git add (filenaem)											//add file name to track
